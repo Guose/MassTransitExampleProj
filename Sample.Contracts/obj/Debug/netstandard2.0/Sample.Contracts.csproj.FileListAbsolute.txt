@@ -1,0 +1,10 @@
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Contracts\bin\Debug\netstandard2.0\Sample.Contracts.deps.json
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Contracts\bin\Debug\netstandard2.0\Sample.Contracts.dll
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Contracts\bin\Debug\netstandard2.0\Sample.Contracts.pdb
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Contracts\obj\Debug\netstandard2.0\Sample.Contracts.csproj.AssemblyReference.cache
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Contracts\obj\Debug\netstandard2.0\Sample.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Contracts\obj\Debug\netstandard2.0\Sample.Contracts.AssemblyInfoInputs.cache
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Contracts\obj\Debug\netstandard2.0\Sample.Contracts.AssemblyInfo.cs
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Contracts\obj\Debug\netstandard2.0\Sample.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Contracts\obj\Debug\netstandard2.0\Sample.Contracts.dll
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Contracts\obj\Debug\netstandard2.0\Sample.Contracts.pdb

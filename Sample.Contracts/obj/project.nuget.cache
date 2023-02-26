@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xI6ieYmeCUXDJrWwWNVNcqnNLBG+WtsRAs7ovUxIJPoFhbnx1eiSnGDTh18AM5HQGhX2igb/KKqst6J0elsbog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JustinElder\\source\\repos\\Sample-Twitch\\Sample.Contracts\\Sample.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JustinElder\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JustinElder\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

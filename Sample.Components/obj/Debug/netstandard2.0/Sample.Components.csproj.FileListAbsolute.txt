@@ -1,0 +1,13 @@
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\bin\Debug\netstandard2.0\Sample.Components.deps.json
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\bin\Debug\netstandard2.0\Sample.Components.dll
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\bin\Debug\netstandard2.0\Sample.Components.pdb
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\bin\Debug\netstandard2.0\Sample.Contracts.dll
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\bin\Debug\netstandard2.0\Sample.Contracts.pdb
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\obj\Debug\netstandard2.0\Sample.Components.csproj.AssemblyReference.cache
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\obj\Debug\netstandard2.0\Sample.Components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\obj\Debug\netstandard2.0\Sample.Components.AssemblyInfoInputs.cache
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\obj\Debug\netstandard2.0\Sample.Components.AssemblyInfo.cs
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\obj\Debug\netstandard2.0\Sample.Components.csproj.CoreCompileInputs.cache
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\obj\Debug\netstandard2.0\Sample.Components.csproj.CopyComplete
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\obj\Debug\netstandard2.0\Sample.Components.dll
+C:\Users\JustinElder\source\repos\Sample-Twitch\Sample.Components\obj\Debug\netstandard2.0\Sample.Components.pdb
